@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -48 32 -48 -32
+LINE Normal 16 0 -48 32
+LINE Normal -48 -32 16 0
+LINE Normal -16 -48 -16 -16
+LINE Normal -16 48 -16 16
+LINE Normal -38 -10 -30 -10
+LINE Normal -38 8 -38 -10
+LINE Normal -44 8 -38 8
+LINE Normal -33 8 -33 -10
+LINE Normal -38 8 -33 8
+LINE Normal 23 1 32 0
+CIRCLE Normal 23 5 15 -3
+SYMATTR Prefix X
+SYMATTR Value CD40106B
+PIN 32 0 TOP 8
+PINATTR PinName Y
+PINATTR SpiceOrder 1
+PIN -48 0 BOTTOM 8
+PINATTR PinName A
+PINATTR SpiceOrder 2
+PIN -16 -48 RIGHT 8
+PINATTR PinName VCC
+PINATTR SpiceOrder 3
+PIN -16 48 LEFT 8
+PINATTR PinName AGND
+PINATTR SpiceOrder 4
